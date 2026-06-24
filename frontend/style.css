@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    padding:40px;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+textarea{
+    width:100%;
+    margin-bottom:15px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+pre{
+    margin-top:20px;
+    background:#eee;
+    padding:15px;
+}
