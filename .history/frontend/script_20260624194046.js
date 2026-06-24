@@ -7,7 +7,7 @@ async function submitData() {
         .map(x => x.trim())
         .filter(x => x);
 
-    const response = await fetch("https://chitkara-fullstack-challenge-production.up.railway.app/bfhl", {
+    const response = await  {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
